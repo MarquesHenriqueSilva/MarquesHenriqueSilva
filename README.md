@@ -1,6 +1,6 @@
 ## Hello!! I'm Marques Henrique, Computer Science Student and Web Developer
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/marqueshenriquesilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marqueshenriquesilva&count_private=true&show_icons=true&theme=transparent&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqueshenriquesilva&layout=compact&https://github.com/marqueshenriquesilva/github-readme-stats&theme=transparent"/>
