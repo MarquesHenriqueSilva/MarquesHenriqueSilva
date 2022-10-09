@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https://github.com/marqueshenriquesilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marqueshenriquesilva&show_icons=true&theme=transparent&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqueshenriquesilva&layout=compact&https://github.com/anuraghazra/github-readme-stats&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marqueshenriquesilva&count_private=true&show_icons=true&theme=transparent&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqueshenriquesilva&layout=compact&https://github.com/marqueshenriquesilva/github-readme-stats&theme=transparent"/>
 </div>
 
 
@@ -21,7 +21,7 @@
 
 <div>
   <a href="https://br.linkedin.com/in/marques-henrique-900605236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="discordapp.com/users/962074081577025626" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discordapp.com/users/962074081577025626" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:marqueshenrique12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="mailto:marqueshenrique@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
