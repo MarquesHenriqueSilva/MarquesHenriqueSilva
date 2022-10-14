@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https://github.com/marqueshenriquesilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marqueshenriquesilva&count_private=true&show_icons=true&include_all_commits=true&theme=transparent/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqueshenriquesilva&langs_count=7&layout=compact&https://github.com/marqueshenriquesilva/github-readme-stats&theme=transparent/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marqueshenriquesilva&count_private=true&show_icons=true&include_all_commits=true/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqueshenriquesilva&langs_count=7&layout=compact&https://github.com/marqueshenriquesilva/github-readme-stats/">
 </div>
 
 
