@@ -27,7 +27,7 @@
   <img align="right" alt="GalaxyFox-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/115382988/194738159-bc6ba562-3f3f-4f46-a150-3ce9f0acf2c9.gif">
 </div>
 
-  ## Contact & Social Media
+  ## 📬 Contact & Social Media
 
 <div>
   <a href="https://br.linkedin.com/in/marques-henrique-900605236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
