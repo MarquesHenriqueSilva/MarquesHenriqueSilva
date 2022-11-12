@@ -4,7 +4,7 @@
 
 - 🎓 Studying **Computer Science**
 - 🌐 Web developer who knows a bit of both **Front-end** and **Back-end**
-- 🔎 Proficient in **Python**, currently learning **C** and the **Django** framework
+- 🔎 Proficient in **Python**, currently learning **C** and **JavaScript**
 - 🎮 Likes to make simple **games** and **apps** during free time
 
 ## 📊 Here are my GitHub stats
