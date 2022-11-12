@@ -1,4 +1,4 @@
-## Hi, 👋 I'm Marques!
+## Hi, I'm Marques!
 
 > Status: Open to opportunities but needs to check disponibility 📅
 
