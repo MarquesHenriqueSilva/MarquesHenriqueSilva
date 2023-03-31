@@ -3,7 +3,7 @@
 > Status: Open to opportunities but needs to check disponibility 📅
 
 - 🎓 Studying **Computer Science**
-- 🌐 Web developer who knows a bit of both **Front-end** and **Back-end**
+- 🌐 Developer with focus on **Back-end**
 - 🔎 Proficient in **Python**, currently learning **C** and **C#**
 - 🎮 Likes to make simple **games** and **apps** during free time
 
